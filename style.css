@@ -11,12 +11,14 @@ body {
     flex-wrap: wrap;
     width: 960px;
     height: 960px;
-    border: 1px solid black;
+    border: 5px solid slateblue;
+
 }
 .grid-item {
     box-sizing: border-box;
-    border: 1px solid #ddd;
+
 }
 button {
     margin-bottom: 10px;
+    background-color: aqua;
 }
